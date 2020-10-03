@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;500&display=swap');
+.col-sm-4 {
+    padding-left: 100px !important;
+}
+
+textarea, .preview {
+    min-height: 98vh;
+}
+
+textarea {
+    background-color: rgb(3, 3, 22) !important;
+    color: rgb(207, 204, 204) !important;
+    border-color: rgb(3, 3, 22) !important;
+    font-family: 'Roboto' !important;
+    font-size: 1.8vh !important;
+}
+
+textarea:hover {
+    border-color: none !important;
+}
+
+.alert-success {
+    background-color: rgb(3, 3, 22) !important;
+}
+
+.alert-secondary {
+    background-color: rgb(255, 255, 255) !important;
+}
